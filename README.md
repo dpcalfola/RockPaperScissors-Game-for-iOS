@@ -1,2 +1,2 @@
-# RockPaperScissors game for iOs
+# RockPaperScissors game for iOS
  
