@@ -17,8 +17,8 @@ class ViewController: UIViewController {
 	override func viewDidLoad() {
 		super.viewDidLoad()
 
-		comImageView.image = #imageLiteral(resourceName: "paper")
-		userImageView.image = #imageLiteral(resourceName: "scissors")
+		comImageView.image = #imageLiteral(resourceName: "readyLeft")
+		userImageView.image = #imageLiteral(resourceName: "readyRight")
 
 		// Do any additional setup after loading the view.
 	}
